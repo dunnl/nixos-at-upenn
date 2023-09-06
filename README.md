@@ -22,3 +22,5 @@ Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html). To
 execute this script, run it from within the nix shell at
 `SecureW2_JoinNow/shell.nix`. (The script itself must be downloaded
 from Penn's campus.)
+
+Note that when the script asks for your PennKey, it really wants your UPenn email address.
